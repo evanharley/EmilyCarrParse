@@ -266,3 +266,6 @@ __pycache__/
 /EmilyCarrParse/pdp.xml
 /EmilyCarrParse/EmilyCarrTest.py
 /EmilyCarrParse/emily-carr.xml
+/EmilyCarrParse/coverage_html
+/EmilyCarrParse/Old_files
+/EmilyCarrParse/.coverage
